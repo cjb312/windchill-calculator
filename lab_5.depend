@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527876007 source:/Users/chris/Desktop/codeblockstest/lab_5/main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
